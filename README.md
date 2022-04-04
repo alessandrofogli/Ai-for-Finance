@@ -8,3 +8,8 @@ You can find in this repo different projects, almost all data are pulled, if pre
     * S&P500 as market index
     * Difference between BAA and AAA Us corporate bond yields
     * 10-year treasury constant maturity minus 3-month treasury constant maturity.
+
+<!---
+alessandrofogli/Ai-for-Finance is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
