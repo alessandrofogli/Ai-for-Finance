@@ -18,6 +18,7 @@ Find correlation between Recession data and the following variables:
     * GDP Growth.  
 
 Use recession as dependent variable and and lag from 1 up to 12 quarter for the forecast with the difference of treasury yield as explanatory variable, then with the same logic use also the other variables as explanatory.
+4. Garch Volatility, find and use the volatility of the explanatory variables of the previous project and run a Probit model to see te predictive power.
 
 
 
