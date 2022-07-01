@@ -15,7 +15,7 @@ Find correlation between Recession data and the following variables:
     * S&P500 as market index
     * Difference between BAA and AAA Us corporate bond yields.
     * 10-year treasury constant maturity minus 3-month treasury constant maturity
-    * GDP Growth
+    * GDP Growth.  
 Use recession as dependent variable and and lag from 1 up to 12 quarter for the forecast with the difference of treasury yield as explanatory variable, then with the same logic use also the other variables as explanatory.
 
 
